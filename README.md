@@ -2,7 +2,7 @@
 
 This project demonstrates how to implement OAuth2 login in a **React JS** application, using Google OAuth2 authentication.
 
-#Features
+# Features
 - Google OAuth2 login.
 - Secure user authentication flow.
 - Responsive UI with Google login button.
